@@ -13,7 +13,7 @@
 > java modern.challenge.Main
 
 전체 소스 코드 압축 파일
-- https://github.com/gilbutITbook/080292/9781789801415_Full.zip
+- https://github.com/gilbutITbook/080292/blob/main/9781789801415_Full.zip
 
 각 장의 예제를 실습하는 과정을 동영상으로 볼 수 있다.
 - https://bit.ly/java_coding_problems
